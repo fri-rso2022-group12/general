@@ -1,4 +1,4 @@
-# Microservice voznje
+# Microservice opravljene poti
 Mikrostoritev voznje je namenjenja hranjenju, pridobivanju in analiziranju opravljenih voženj.
 
 ## Avtor
