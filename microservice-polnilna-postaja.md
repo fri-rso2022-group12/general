@@ -52,7 +52,7 @@ Simuliranje zdravja storitev se izvede s:
 
 ## Zbiranje metrik
 
-Zbiranje metrik poteka s pomočjo Prometheusa. Mikrostoritev ima za ta namen izpostavljen endpoint [/actuator/prometheus](http://34.123.38.121:8080/actuator/prometheus). Dodana je bila tudi lastna metrika *ApiCallCounter*, ki šteje prejete zahtevke. Šteje zahtevkov je narejeno s pomočjo *io.micrometer.core.instrument.Counter* paketa.
+Zbiranje metrik poteka s pomočjo [Prometheusa](http://35.224.249.132:9090/). Mikrostoritev ima za ta namen izpostavljen endpoint [/actuator/prometheus](http://34.123.38.121:8080/actuator/prometheus). Dodana je bila tudi lastna metrika *ApiCallCounter*, ki šteje prejete zahtevke. Šteje zahtevkov je narejeno s pomočjo *io.micrometer.core.instrument.Counter* paketa.
 
 
 ## Beleženje dnevnikov
