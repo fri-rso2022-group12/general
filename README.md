@@ -20,3 +20,20 @@ Aplikacija je sestavljena iz sledečih mikrostoritev:
 - [Vozila](./microservice-vozila.md)
 
 Seznam končnih točk (endpointov), povezav do repozitorijev je navedena pri opisu posamezne mikrostoritve (klikni na povezavo).
+
+## Kubernetis shema
+
+
+## Povezave do ostalih storitev
+- [Kibana] (http://34.28.150.187:5601/app/home#/)
+- [Confluence] (http://34.28.150.187:8500/)
+- [Prometheus] (http://35.224.249.132:9090/)
+
+## Povezave do OpenApi vmesnikov
+
+- [Opravljene poti](http://34.72.77.27:8080/swagger-ui/index.html)
+- [Polnilna postaja](http://34.123.38.121:8080/swagger-ui/index.html)
+- [Pot](http://34.160.27.153/path-service/swagger/index.html)
+- [Tip vozil](http://34.173.72.45:8080/openapi)
+- [Uporabniki](http://34.160.27.153/users-service/swagger/index.html)
+- [Vozila](http://34.122.33.166:8081/openapi)
