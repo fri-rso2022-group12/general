@@ -26,7 +26,7 @@ Mikrostoritev je bila objavljena na **Google kubernetis engine-u**. Konfiguracij
 - [rso-microservice-tip-vozil-deployment.yaml](https://github.com/fri-rso2022-group12/mikroservice-polnilna-postaja/blob/master/k8/charging-station-deployment.yaml)
 
 
-Podatkovna baza je začasno gostovana na lastnem strežniku.
+Podatkovna baza je MS SQL Server, gostovana na Azure.
 
 ## Upravljanje s konfiguracijo
 
