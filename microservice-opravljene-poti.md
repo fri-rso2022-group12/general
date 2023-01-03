@@ -9,6 +9,7 @@ Storitev je napisana v programskem jeziku Java in Spring boot.
 
 ## Git repozitorij
 https://github.com/fri-rso2022-group12/microservice-voznje
+
 ## Docker Hub repozitorij
 https://hub.docker.com/repository/docker/cutibo29/trips
 
@@ -70,8 +71,7 @@ Za toleranco napak, se uporablja Circuit Breaker, ki temelji na **io.github.resi
 Mikrostoritev uporablja [asinhrone REST klice](https://github.com/fri-rso2022-group12/microservice-voznje/blob/master/src/main/java/com/rso/Trips/api/TripsAsync.java) za pridobivanje podatkov iz baze.   
 
 ### GraphQL
-
-Storitev uporablja GraphQl. Funkcionalnost je na voljo preko [vmesnika](http://34.72.77.27:8080/graphiql?path=/graphql).
+Storitev ne uporablja graphql
 
 ## Kafka
 Mikrostoritev ne uporablja kafke. 
