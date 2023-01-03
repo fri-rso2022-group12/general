@@ -26,7 +26,7 @@ Seznam končnih točk (endpointov), povezav do repozitorijev je navedena pri opi
 
 ## Povezave do ostalih storitev
 - [Kibana](http://34.28.150.187:5601/app/home#/)
-- [Confluence](http://34.28.150.187:8500/)
+- [Consul](http://34.28.150.187:8500/)
 - [Prometheus](http://35.224.249.132:9090/)
 
 ## Povezave do OpenApi vmesnikov
