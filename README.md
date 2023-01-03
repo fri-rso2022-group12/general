@@ -23,6 +23,7 @@ Seznam končnih točk (endpointov), povezav do repozitorijev je navedena pri opi
 
 ## Kubernetis shema
 
+![Arhitektura](./arhitektura.png)
 
 ## Povezave do ostalih storitev
 - [Kibana](http://34.28.150.187:5601/app/home#/)
