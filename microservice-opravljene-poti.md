@@ -67,7 +67,7 @@ Za toleranco napak, se uporablja Circuit Breaker, ki temelji na **io.github.resi
 
 ### Asinhron REST klic
 
-Mikrostoritev kot [asinhrone REST klice uporablja](https://github.com/fri-rso2022-group12/microservice-voznje/blob/master/src/main/java/com/rso/Trips/api/TripsAsync.java) za pridobivanje podatkov iz baze.   
+Mikrostoritev uporablja [asinhrone REST klice](https://github.com/fri-rso2022-group12/microservice-voznje/blob/master/src/main/java/com/rso/Trips/api/TripsAsync.java) za pridobivanje podatkov iz baze.   
 
 ### GraphQL
 
