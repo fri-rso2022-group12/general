@@ -13,7 +13,7 @@ https://github.com/fri-rso2022-group12/mikroservice-polnilna-postaja
 https://hub.docker.com/repository/docker/cutibo29/charging-station
 
 ## Video
-[![Video](https://www.youtube.com/watch?v=qkaZfcFlnZs/0.jpg)](https://www.youtube.com/watch?v=qkaZfcFlnZs)
+[![Video](https://img.youtube.com/vi/qkaZfcFlnZs/0.jpg)](https://www.youtube.com/watch?v=qkaZfcFlnZs)
 
 ## Zvezna integracija
 

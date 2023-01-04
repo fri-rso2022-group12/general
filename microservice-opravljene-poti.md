@@ -14,7 +14,7 @@ https://github.com/fri-rso2022-group12/microservice-voznje
 https://hub.docker.com/repository/docker/cutibo29/trips
 
 ## Video
-[![Video](https://www.youtube.com/watch?v=5gyGwfJ5eiQ/0.jpg)](https://www.youtube.com/watch?v=5gyGwfJ5eiQ)
+[![Video](https://img.youtube.com/vi/5gyGwfJ5eiQ/0.jpg)](https://www.youtube.com/watch?v=5gyGwfJ5eiQ)
 
 
 ## Zvezna integracija
